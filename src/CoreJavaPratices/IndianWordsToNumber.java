@@ -1,3 +1,4 @@
+package CoreJavaPratices;
 import java.util.*;
 
 public class IndianWordsToNumber {
